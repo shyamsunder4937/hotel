@@ -1,0 +1,5 @@
+node_modules/
+hotel-backend/node_modules/
+hotel-frontend/node_modules/
+.env
+.DS_Store
